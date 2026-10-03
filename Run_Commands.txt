@@ -1,0 +1,18 @@
+python --version
+
+dir
+python test_graph.py
+python test_bfs.py
+python test_ucs.py
+python test_astar.py
+python test_blocked.py
+python test_scenarios.py
+python -m streamlit run app.py
+
+## if streamlit is n't working use these command
+python -m pip install streamlit
+
+
+
+
+
